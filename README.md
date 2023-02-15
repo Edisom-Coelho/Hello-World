@@ -1,3 +1,3 @@
 # Hello-World
-## Projeto 1
-Sim
+## Projeto da Aula de Programação Web II
+Projeto para Aprender a Utilizar o Git e o Github
